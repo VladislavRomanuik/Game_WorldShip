@@ -1,0 +1,21 @@
+0 - cell empty
+1 - cell missed
+2 - cell hit
+3 - cell die
+4 - map border
+5 - arrow (how turn)Turn right
+6 - ship 1x1
+7 - ship 1x2
+8 - ship 1x3
+9 - ship 1x4
+10- ship 2x1
+11- ship 3x1
+12- ship 4x1
+13- button player vs bot
+14- button bot vs bot
+15- button easy
+16- button hard
+17- arrow turn left
+18- button next
+19- nick player1
+20- nick player2
